@@ -1,4 +1,5 @@
 hello, my name is ricard gael, music and programming enjoyer.\
+arch linux user (btw)\
 studing computer science, also practice on my own.\
 new in english, i try but i although sometimes fail :(
 
