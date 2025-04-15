@@ -1,16 +1,12 @@
-## Hi there 👋
+hello, my name is ricard gael, music and programming enjoyer.\
+studing computer science, also practice on my own.\
+new in english, i try but i although sometimes fail :(
 
-<!--
-**ricardenas26/ricardenas26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> actual picture of my self
+<img src="https://raw.githubusercontent.com/ricardenas26/ricardenas26/refs/heads/main/picture_me_github.jpeg" width='420'>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## skills
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
